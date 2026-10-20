@@ -1,0 +1,6 @@
+{
+  "name": "Control y Monitoreo Móvil",
+  "description": "Sistema móvil y responsivo de control de accesos, monitoreo y seguridad para condominios en iOS y Android.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
